@@ -12,7 +12,7 @@ This project aims to build an authentication system using ReactJS and Next.js, p
 
 To install and run the project locally, follow these steps:
 
-1. **Clone the repository**
-2. **Navigate to the project directory**
-3. **Install dependencies: npm install**
-4. **Initiate the development server: npm run dev**
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies: **npm install**
+4. Initiate the development server: **npm run dev**
